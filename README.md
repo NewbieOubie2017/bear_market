@@ -20,7 +20,7 @@ So, Trump will do anything within his reach to counteract the coronavirus. But w
 
 Well, the easiest and also his favorite trick is to cut taxes, which he's already broadcasted with loudest volume possible that he really means it and it's going to happen soon. 
 
-Then there is that good old Keynesian thing. Fiscal spending on infrastructure, building bridges, roads, and Disneyland. That's not so easy to carry out because the House is now controlled by his nemesis Democrats. And rumor is they don't like more Disneylands?
+Then there is that good old Keynesian thing. Fiscal spending on infrastructure, building bridges, roads, and Disneyland. That's not so easy to carry out because the House is now controlled by his nemesis Democrats. And rumor is they don't like more Disneylands.
 
 Then we have the Fed. Powell has already blinked. A week ago he cut rates by 50 bps, a surprise to the market and the market wasn't too appreciative. Bond folks are "pricing" in another 25 bps. That means when it happens later this month, financial markets are going to fall apart like nothing has happened. 
 
