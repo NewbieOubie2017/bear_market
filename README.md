@@ -4,7 +4,7 @@ We've just witnessed a major event in the stock market today. The S&P 500 hit a 
 
 A bear market has arrived because a recession is already here or closing in on the US eceonomy. Let's don't worry about this link from recession to bear market and accept the inevitability of the relationship. 
 
-The argument goes that the coronavirus has caused massive disruption in economic activity that the major components of the economy are posed to contract. Even a bad students of economics remembers this equation,
+The argument goes that the coronavirus has caused massive disruption in economic activity that the major components of the economy are posed to contract. Even a bad student of economics remembers this equation,
 
      GDP = C + I + G + (X - M)
 
