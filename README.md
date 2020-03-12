@@ -2,15 +2,17 @@
 
 We've just witnessed a major event in the stock market today. The S&P 500 hit a milestone of falling 20% from its high a month ago. Headline flashes bear market. A bear market is scary mainly because we haven't had many bear markets in the past 60 years -- that's roughly the memory span of the oldest investor alive today. 
 
-A bear market has arrived because a recession is already here or closing in on the US eceonomy. Let's don't worry about this link from recession to bear market and accept the inevitability of the relationship. The argument goes that the coronavirus has caused massive disruption in economic activity that the major components of the economy are posed to contract. Even a bad students of economics remembers this equation,
+A bear market has arrived because a recession is already here or closing in on the US eceonomy. Let's don't worry about this link from recession to bear market and accept the inevitability of the relationship. 
+
+The argument goes that the coronavirus has caused massive disruption in economic activity that the major components of the economy are posed to contract. Even a bad students of economics remembers this equation,
 
      GDP = C + I + G + (X - M)
 
-It says GDP is the sum of consumption (C), investment(I), govt spending (G), and external trade (imports M and exports X). I'll keep this piece free of math, so this' the only equation.
+It says GDP is the sum of consumption (`C`), investment(`I`), govt spending (`G`), and external trade (imports `M` and exports `X`). I'll keep this piece free of math, so this' the only equation.
 
-The coronavirus will hit C for sure. Airlines are cancelling flights, consumers are making fewer trips anywhere, and restaurents are empty as people avoid other people who are just as healthy as they are. Investment will suffer because general activity is down. Corporations can't invest when nobody shows up at the office. Trade with other nations will fall for the same reason.
+The coronavirus will hit `C` for sure. Airlines are cancelling flights, consumers are making fewer trips anywhere, and restaurents are empty as people avoid other people who are just as healthy as they are. Investment will suffer because general activity is down. Corporations can't invest when nobody shows up at the office. Trade with other nations will fall for the same reason.
 
-This leaves us with G. And we have Donald Trump. In an election year. 
+This leaves us with `G`. And we have Donald Trump. In an election year. 
 
 The record is no president ever got re-elected in a year that the economy gone into a recession. Trump knows that. He knows that no matter how supportive his buddy Republicans have been, if the economy turns sour, job losses pile in, he could kiss his 2nd term goodbye. 
 
