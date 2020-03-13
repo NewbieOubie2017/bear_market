@@ -4,7 +4,7 @@ We've just witnessed a major event in the stock market today. The S&P 500 hit a 
 
 A bear market has arrived because a recession is already here or closing in on the US eceonomy. Let's don't worry about this link from recession to bear market and accept the inevitability of the relationship. 
 
-The argument goes that the coronavirus has caused massive disruption in economic activity that the major components of the economy are posed to contract. Even a bad student of economics remembers this equation,
+The argument goes that the coronavirus has caused massive disruption in economic activity that the major components of the economy are posed to contract. Even a lazy student of economics remembers this equation,
 
      GDP = C + I + G + (X - M)
 
@@ -12,9 +12,9 @@ It says GDP is the sum of consumption (`C`), investment(`I`), govt spending (`G`
 
 The coronavirus will hit `C` for sure. Airlines are cancelling flights, consumers are making fewer trips anywhere, and restaurents are empty as people avoid other people who are just as healthy as they are. Investment will suffer because general activity is down. Corporations can't invest when nobody shows up at the office. Trade with other nations will fall for the same reason.
 
-This leaves us with `G`. And we have Donald Trump. In an election year. 
+This leaves us with `G`. And we have Donald Trump. And it's an election year. 
 
-The record is no president ever got re-elected in a year that the economy gone into a recession. Trump knows that. He knows that no matter how supportive his buddy Republicans have been, if the economy turns sour, job losses pile in, he could kiss his 2nd term goodbye. 
+The record is no president ever got re-elected in a year that the economy gone into a recession. Trump knows that. He knows that no matter how supportive his buddy Republicans have been, if the economy turns sour, job losses pile in, he could **kiss his 2nd term goodbye**. 
 
 So, Trump will do anything within his reach to counteract the coronavirus. But what can he do?  
 
@@ -52,7 +52,7 @@ Lastly, Trump will act. One shouldn't forget that **Trump** is one of the most p
 
 To end this piece, I want to make one observation. The coronavirus began in China, infected the most people in China, and caused the most economic damage in China. Yet, if you look at its stock markets, they're holding up quite well. This raises the question on what's actually the cause of the crash today. I'll try answer this in my next writeup.
 
-
+----
 
 ### Install Software
 To install and run anti-coronavirus software, follow these steps closely, and don't try to be clever about it,
