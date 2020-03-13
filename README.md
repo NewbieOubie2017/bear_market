@@ -26,7 +26,27 @@ Then we have the Fed. Powell has already blinked. A week ago he cut rates by 50 
 
 So, what could save us from the apocalypse? My answer is nothing. Because there wouldn't be an apocalypse. 
 
-[to be continued....]
+[Mar 12, 2020]
+
+In face of the market crash today -- there's no other word for it, today will go down in the record book as The Crash of 2020 -- it is awfully hard to sound bullish. But here is the fundamental case against the end-of-world view. 
+
+It may seem weak and unconvincing when asset prices are bleeding like today, but experience shows that the long view always wins out. 
+
+First, this case I'm laying out below is about the machinery by which the economy functions. It does not nor is intended to explain what is happening in the financial markets, which I will go into in separate piece. Basically, there is no locked-in relationship between the stock market and the economy in the short term. 
+
+While the financial markets have crashed, the question is will the real economy crash as well. I'd like to argue it will not.
+
+1. The virus won't change the US consumers. This country has experienced much greater and more damaging shock than a pandemic, yet the consumers quickly recovered. The terrorist attack on 9/11 hit at the heart of the american psyche, yet consumer spending barely budge in 2001-02. Worry about the virus makes people cut certain expenditures, such as restaurant and travel, but the net effect is they save more during this period. More saving in the consumer's hands means a sharp rebound in the economy when it's over.
+
+2. Many businesses will be unable to weather the storm and close down. So there will be job losses, and some consumers will suffer income reduction. However, don't forget just a month ago, we had the lowest unemployment on record. The current economy has more than enough capacity to absorb the unemployment resulted from the pandemic shock.
+
+3. There is hardly any speculative excess in the real economy and in the financial markets. One component that contributed to the financial crisis in 2008 was the speculation in real estate, which created the demand for mortgages which created the market for subprimes which sowed the seed of its undoing. None of that exists today.
+
+When a black swan descents, it goes after the weakest link in the system. Some points to the elevated corporate borrowing as a weakness in the current economy. That's certainly an area of concern. However, as long as the borrowers have enough cash flow to service its debts, it doesn't present a problem. It's certainly possible that a vicious cycle develops where lower consumer spending leads to lower sales and lower cash flow for certain debt-laden corporations which are then forced into default. 
+
+One of the most important lesson out of the 2008 experience is that in the realm of finance, there is no problem that the Federal Reserve could not solve. When subprime defaults went rampant in late 2008, Ben Bernanke took the incredibly bold step of going into the market and buying up subprime mortgages, basically taking them off the hands of investors. That act had worked magic. And in no small part, it solved the basic problem in 2008.
+
+If corporate debt defaults get out of hand, there is nothing that would stop the current Fed from buying up low grade corporate papers and removing them from the system. Thus, I think this issue wouldn't break the camel's back.
 
 
 
