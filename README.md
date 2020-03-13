@@ -28,7 +28,7 @@ So, what could save us from the apocalypse? My answer is nothing. Because there 
 
 ## [Mar 12, 2020]
 
-In face of the market crash today -- there's no other word for it, today will go down in history as The Crash of 2020 -- it is awfully hard to sound bullish. But here is the fundamental case against the end-of-world view. 
+**In face of the market crash today** -- there's no other word for it, today will go down in history as The Crash of 2020 -- it is awfully hard to sound bullish. But here is the fundamental case against the end-of-world view. 
 
 It may seem weak and unconvincing when asset prices are bleeding like today, but experience shows that the long view always wins out. 
 
@@ -49,6 +49,8 @@ One of the most important lesson out of the 2008 experience is that in the realm
 If corporate debt defaults get out of hand, there is nothing that would stop the current Fed from buying up low grade corporate papers and removing them from the system. Thus, I think this issue wouldn't break the camel's back.
 
 Lastly, Trump will act. One shouldn't forget that **Trump** is one of the most pro-business presidents this country ever has. He's going to do whatever it takes to ride the pandemic of its impact on the economy, perhaps creating a new excess that leads to the next economic crisis. But that's something to worry about later on.
+
+To end this piece, I want to make one observation. The coronavirus began in China, infected the most people in China, and caused the most economic damage in China. Yet, if you look at its stock markets, they're holding up quite well. This raises the question on what's actually the cause of the crash today. I'll try answer this in my next writeup.
 
 
 
