@@ -36,17 +36,19 @@ First, this case I'm laying out below is about the machinery by which the econom
 
 While the financial markets have crashed, the question is will the real economy crash as well. I'd like to argue it will not.
 
-First, the virus won't change the US consumers. This country has experienced much greater and more damaging shock than a pandemic, yet the consumers quickly recovered. The terrorist attack on 9/11 hit at the heart of the american psyche, yet consumer spending barely budge in 2001-02. Worry about the virus makes people cut certain expenditures, such as restaurant and travel, but the net effect is they save more during this period. More saving in the consumer's hands means a sharp rebound in the economy when it's over.
+First, **the virus won't change the US consumers**. This country has experienced much greater and more damaging shock than a pandemic, yet the consumers quickly recovered. The terrorist attack on 9/11 hit at the heart of the american psyche, yet consumer spending barely budge in 2001-02. Worry about the virus makes people cut certain expenditures, such as restaurant and travel, but the net effect is they save more during this period. More saving in the consumer's hands means a sharp rebound in the economy when it's over.
 
-Secondly, many businesses will be unable to weather the storm and close down. So there will be job losses, and some consumers will suffer income reduction. However, don't forget just a month ago, we had the lowest unemployment on record. The current economy has more than enough capacity to absorb the unemployment resulted from the pandemic shock.
+Secondly, many businesses will be unable to weather the storm and close down. So there will be job losses, and some consumers will suffer income reduction. However, don't forget just a month ago, we had the **lowest unemployment on record**. The current economy has more than enough capacity to absorb the unemployment resulted from the pandemic shock.
 
-Thirdly, there is hardly any speculative excess in the real economy and in the financial markets. One component that contributed to the financial crisis in 2008 was the speculation in real estate, which created the demand for mortgages which created the market for subprimes which sowed the seed of its undoing. None of that exists today.
+Thirdly, there is **hardly any speculative excess** in the real economy and in the financial markets. One component that contributed to the financial crisis in 2008 was the speculation in real estate, which created the demand for mortgages which created the market for subprimes which sowed the seed of its undoing. None of that exists today.
 
 When a black swan descents, it goes after the weakest link in the system. Some points to the elevated corporate borrowing as a weakness in the current economy. That's certainly an area of concern. However, as long as the borrowers have enough cash flow to service its debts, it doesn't present a problem. It's certainly possible that a vicious cycle develops where lower consumer spending leads to lower sales and lower cash flow for certain debt-laden corporations which are then forced into default. 
 
-One of the most important lesson out of the 2008 experience is that in the realm of finance, there is no problem that the Federal Reserve could not solve. When subprime defaults went rampant in late 2008, Ben Bernanke took the incredibly bold step of going into the market and buying up subprime mortgages, basically taking them off the hands of investors. That act had worked magic. And in no small part, it solved the basic problem in 2008.
+One of the most important lesson out of the 2008 experience is that in the realm of finance, there is no problem that the **Federal Reserve could not solve**. When subprime defaults went rampant in late 2008, Ben Bernanke took the incredibly bold step of going into the market and buying up subprime mortgages, basically taking them off the hands of investors. That act had worked magic. And in no small part, it solved the basic problem in 2008.
 
 If corporate debt defaults get out of hand, there is nothing that would stop the current Fed from buying up low grade corporate papers and removing them from the system. Thus, I think this issue wouldn't break the camel's back.
+
+Lastly, Trump will act. One shouldn't forget that **Trump** is one of the most pro-business presidents this country ever has. He's going to do whatever it takes to ride the pandemic of its impact on the economy, perhaps creating a new excess that leads to the next economic crisis. But that's something to worry about later on.
 
 
 
