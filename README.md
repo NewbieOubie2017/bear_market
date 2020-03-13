@@ -48,9 +48,9 @@ One of the most important lesson out of the 2008 experience is that in the realm
 
 If corporate debt defaults get out of hand, there is nothing that would stop the current Fed from buying up low grade corporate papers and removing them from the system. Thus, I think this issue wouldn't break the camel's back.
 
-Lastly, Trump will act. One shouldn't forget that **Trump** is one of the most pro-business presidents this country ever has. He's going to do whatever it takes to ride the pandemic of its impact on the economy, perhaps creating a new excess that leads to the next economic crisis. But that's something to worry about later on.
+Lastly, Trump will act. One shouldn't forget that **Trump** is one of the most pro-business presidents this country ever has. He's going to do whatever it takes to rid the pandemic of its impact on the economy, perhaps creating new excesses that lead to the next economic crisis. But that's something to worry about later.
 
-To end this piece, I want to make one observation. The coronavirus began in China, infected the most people in China, and caused the most economic damage in China. Yet, if you look at its stock markets, they're holding up quite well. This raises the question on what's actually the cause of the crash today. I'll try answer this in my next writeup.
+To end this piece, I want to make one observation. The coronavirus began in China, infected the most people in China, and caused the most economic damage in China. Yet, if you look at its stock markets, they're holding up quite well. This raises the question of what caused the crash today. I'll try answer this in my next writeup.
 
 ----
 
@@ -58,7 +58,7 @@ To end this piece, I want to make one observation. The coronavirus began in Chin
 To install and run anti-coronavirus software, follow these steps closely, and don't try to be clever about it,
 
     sudo apt-get update 
-    sudo apt-get install six_pack_of_your_favorite_beers (except corona)
+    sudo apt-get install six_pack_of_your_favorite_beers (no corona please)
     for i in {1..Inf}
       do
         ./drink --beer=your_favorite_beer 
