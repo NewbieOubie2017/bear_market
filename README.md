@@ -44,7 +44,7 @@ Thirdly, there is **hardly any speculative excess** in the real economy and in t
 
 When a black swan descents, it goes after the weakest link in the system. Some points to the elevated corporate borrowing as a weakness in the current economy. That's certainly an area of concern. However, as long as the borrowers have enough cash flow to service its debts, it doesn't present a problem. It's certainly possible that a vicious cycle develops where lower consumer spending leads to lower sales and lower cash flow for certain debt-laden corporations which are then forced into default. 
 
-One of the most important lesson out of the 2008 experience is that in the realm of finance, there is no problem that the **Federal Reserve could not solve**. When subprime defaults went rampant in late 2008, Ben Bernanke took the incredibly bold step of going into the market and buying up subprime mortgages, basically taking them off the hands of investors. That act had worked magic. And in no small part, it solved the basic problem in 2008.
+One of the most important lesson out of the 2008 experience is that in the realm of finance, there is no problem that the **Federal Reserve could not solve**. When subprime defaults went rampant in late 2008, Ben Bernanke took the incredibly bold step of going into the market and buying up subprime mortgages, basically taking them off the hands of investors[3]. That act had worked magic. And in no small part, it solved the basic problem in 2008.
 
 If corporate debt defaults get out of hand, there is nothing that would stop the current Fed from buying up low grade corporate papers and removing them from the system. Thus, I think this issue wouldn't break the camel's back.
 
@@ -79,6 +79,8 @@ References
 [1] https://www.investopedia.com/terms/s/stock-market-crash-1987.asp
 
 [2] https://en.wikipedia.org/wiki/2009_flu_pandemic
+
+[3] That's the Troubled Asset Relief Program (TARP). According to this [wiki entry](https://en.wikipedia.org/wiki/Troubled_Asset_Relief_Program), Fed spent a total of $21.0 billion on these toxic assets.
 
 
 
